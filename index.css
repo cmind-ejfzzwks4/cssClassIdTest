@@ -1,0 +1,46 @@
+
+    .box1 {
+        background-color: silver;
+        width: 500px;
+        height: 300px;
+        float: left;
+    }
+
+    .box2 {
+        background-color: red;
+        width: 500px;
+        height: 300px;
+        margin-bottom: 30px;
+        float: right;
+    }
+
+    .box3 {
+        background-color: yellow;
+        width: 50px;
+        height: 50px;
+        /* position: relative; */
+        position: absolute;
+        top: 30px;
+        left: 40px;
+    }
+
+    button {
+        color: white;
+        background-color: blue;
+        margin-top: 30px;
+        padding: 100px 300px;
+        border: 2px solid orange;
+        border-radius: 30px;
+    }
+
+    p {
+        font-size: 200px;
+        font-weight: bold;
+        /* font-style: italic; */
+        font-family: 'arial';
+    }
+
+    span {
+        display: block;
+        font-size: 30px;
+    }
